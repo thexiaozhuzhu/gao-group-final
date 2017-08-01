@@ -5,8 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-	
- -theme: minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 
 # Site Settings
 locale                   : "en"
@@ -92,7 +91,7 @@ author:
   flickr           :
   facebook         : "thexiaozhuzhu"
   foursquare       :
-  github           : 
+  github           : "thexiaozhuzhu"
   gitlab           :
   google_plus      : 
   keybase          :
@@ -181,8 +180,8 @@ paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins (previously gems:)
-plugins:
+# Plugins_dir (previously gems:)
+plugins_dir:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
