@@ -13,14 +13,15 @@ title                    : "GAO Group Website"
 title_separator          : "|"
 name                     : "TheXiaoZhuZhu"
 description              : "A boutique merchant bank."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+url                      : "https://gao-group.com"
+baseurl                  : # "/blog"
+repository               : # "not-needed"
+teaser                   : # "/assets/images/404_underconstruction.jpg"
+breadcrumbs              : true # false, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "facebook", "google-plus" , "staticman" 
+			   # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -28,8 +29,8 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    num_posts            :  5 # (default)
+    colorscheme          :  "light" # (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
@@ -57,9 +58,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : thexiaozhuzhu
 facebook:
-  username               :
+  username               : thexiaozhuzhu
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -72,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google", # false, false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
