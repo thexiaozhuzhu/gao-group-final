@@ -20,8 +20,7 @@ teaser                   : # "/assets/images/404_underconstruction.jpg"
 breadcrumbs              : true # false, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "facebook", "google-plus" , "staticman" 
-			   # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -73,7 +72,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google", # false, false (default), "google", "google-universal", "custom"
+  provider               : "google" # false, false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -90,13 +89,13 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/thexiaozhuzhu/"
+  facebook         : "thexiaozhuzhu"
   foursquare       :
-  github           : [metadata]
+  github           : 
   gitlab           :
   google_plus      : 
   keybase          :
-  instagram        : "https://www.instagram.com/thexiaozhuzhu/"
+  instagram        : "thexiaozhuzhu"
   lastfm           :
   linkedin         :
   pinterest        :
