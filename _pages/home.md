@@ -7,5 +7,5 @@ header:
   cta_label: "Go To GAO Capital Website"
   cta_url: "https://gao-cap.com"
   overlay_color: "#333"
-excerpt: "Hi there"
+excerpt: "GAO Group - A boutique merchant bank."
 ---
