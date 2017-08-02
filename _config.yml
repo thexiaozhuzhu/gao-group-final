@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "TheXiaoZhuZhu"
   avatar           : "/assets/images/thexiaozhuzhu-photo.jpg"
-  bio              : "Woof Woof"
+  bio              : "Welcome to GAO Group. I am your host XiaoZhuZhu which means little pig pig in Chinese. I guard this domain."
   location         : "Singapore"
-  email            :
+  email            : "thexiaozhuzhu@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,9 +91,9 @@ author:
   flickr           :
   facebook         : "thexiaozhuzhu"
   foursquare       :
-  github           : "thexiaozhuzhu"
+  github           : 
   gitlab           :
-  google_plus      : 
+  google_plus      : "thexiaozhuzhu@gmail.com"
   keybase          :
   instagram        : "thexiaozhuzhu"
   lastfm           :
@@ -177,7 +177,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Singapore
 
 
 # Plugins_dir (previously gems:)
@@ -248,8 +248,5 @@ defaults:
       comments: # true
       share: true
       related: true
-#    header:
-#      image: /assets/images/singapore-gardens_bg-1.jpg
-#      caption: "Photo credit: Mike Borsetti"
 
 
