@@ -12,15 +12,21 @@ feature_row:
   - image_path: /assets/images/GAO_Capital-FeatureRow.png
     alt: "GAO Capital"
     title: "Funds and liquid investments"
-    excerpt: "For Hedge Funds~"
+    excerpt: "For Fund Advice."
     url: "https://gao-cap.com"
-    btn_label: "To invest with us!"
+    btn_label: "For Fund Advice."
   - image_path: /assets/images/S2_Invest-FeatureRow.png
     alt: "S2 Invest"
     title: "Private equity and illiquid investments"
     excerpt: "For Investment Banking Services"
     url: "https://s2invest.com"
-    btn_label: "For exciting private projects!"
+    btn_label: "For Corporate Advisory."
+  - image_path:
+    alt: "To invest with us"
+    title: "Placeholder"
+    excerpt: "Placeholder"
+    url: "Placeholder"
+    btn_label: "Placeholder"
 ---
 
 {% include feature_row id="intro" type="center" %}
