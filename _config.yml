@@ -234,19 +234,20 @@ compress_html:
 
 # Defaults
 defaults:
+    _pages:
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
-    header:
-      image: /assets/images/singapore-gardens_bg-1.jpg
-      caption: "Photo credit: Mike Borsetti"
+#    header:
+#      image: /assets/images/singapore-gardens_bg-1.jpg
+#      caption: "Photo credit: Mike Borsetti"
 
 
