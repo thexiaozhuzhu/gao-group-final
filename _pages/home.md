@@ -22,3 +22,8 @@ feature_row:
     url: "https://s2invest.com"
     btn_label: "For exciting private projects!"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
