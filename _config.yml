@@ -9,7 +9,7 @@ theme: minimal-mistakes-jekyll
 
 # Site Settings
 locale                   : "en"
-title                    : "GAO Group Website"
+title                    : "GAO Group"
 title_separator          : "|"
 name                     : "TheXiaoZhuZhu"
 description              : "A boutique merchant bank."
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : 
 facebook:
-  username               : thexiaozhuzhu
+  username               : GAOCapital
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
