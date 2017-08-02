@@ -21,13 +21,13 @@ If you are confused as to what we do or cannot find the information you need ple
 #### Simplicity
 Jekyll strips everything down to the bare minimum, eliminating a lot of complexity:
 
-##### No database
+#### No database
 Unlike WordPress and other content management systems (CMS), Jekyll doesn’t have a database. All posts and pages are converted to static HTML prior to publication. This is great for loading speed because no database calls are made when a page is loaded.
 
-##### No CMS
+#### No CMS
 Simply write all of your content in Markdown, and Jekyll will run it through templates to generate your static website. GitHub can serve as a CMS if needed because you can edit content on it.
 
-##### Fast
+#### Fast
 Jekyll is fast because, being stripped down and without a database, you’re just serving up static pages. My base theme, Jekyll Now, makes only three HTTP requests — including the profile picture and social icons!
 
 #### Minimal
