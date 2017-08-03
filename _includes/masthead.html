@@ -2,7 +2,9 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+        <a class="site-title" href="{{ '/' | absolute_url }}">
+          <img class="nav-top-left" width="60%" src="{{ '/assets/images/gao_group_logo_small.jpeg'|absolute_url }}">
+        </a>
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}

@@ -9,17 +9,17 @@ If you are confused as to what we do or cannot find the information you need ple
 
    He is the real boss of the office from Star System 087111111102.  We are merely mind controlled humanoids serving him.
 
-
 2. How can I get in touch with you?
 
    Please go through the website to find the best way to direct your request.
  
 3. Why is your website on Jekyll or Github?
+
    Cause we are a bunch of nerds. 
  
-### Why Jekyll? 
-#### Simplicity
-Jekyll strips everything down to the bare minimum, eliminating a lot of complexity:
+### Why Jekyll? Because it's simple!
+
+Jekyll strips everything down to the bare minimum, eliminating a lot of complexity.
 
 #### No database
 Unlike WordPress and other content management systems (CMS), Jekyll doesn’t have a database. All posts and pages are converted to static HTML prior to publication. This is great for loading speed because no database calls are made when a page is loaded.
