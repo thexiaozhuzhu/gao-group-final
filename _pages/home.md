@@ -9,20 +9,20 @@ header:
   overlay_color: "#5e616c"
 excerpt: "A boutique merchant bank."
 feature_row:
-  - image_path: /assets/images/GAO_Capital-FeatureRow.png
+  - image_path: /assets/images/GAO_Capital-FeatureRow_AUG.png
     alt: "GAO Capital"
-    title: "Funds and liquid investments"
+    title: "Institutional Asset Management"
     excerpt: "For Fund Advice."
     url: "https://gao-cap.com"
     btn_label: "For Fund Advice."
-  - image_path: /assets/images/S2_Invest-FeatureRow.png
+  - image_path: /assets/images/S2_Invest-FeatureRow_AUG.png
     alt: "S2 Invest"
-    title: "Private equity and illiquid investments"
+    title: "Invesment Banking Services"
     excerpt: "For Investment Banking Services"
     url: "https://s2invest.com"
     btn_label: "For Corporate Advisory."
-  - image_path:
-    alt: "To invest with us"
+  - image_path: /assets/images/GAO_Ventures-FeatureRow_AUGpng
+    alt: "Expanding Businesses of Tomorrow"
     title: "Placeholder"
     excerpt: "Placeholder"
     url: "Placeholder"
