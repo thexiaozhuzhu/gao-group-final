@@ -12,21 +12,21 @@ feature_row:
   - image_path: /assets/images/GAO_Capital-FeatureRow_AUG.png
     alt: "GAO Capital"
     title: "Institutional Asset Management"
-    excerpt: "For Fund Advice."
+    excerpt: "RFMC status under the Monetary Authority of Singapore (MAS)"
     url: "https://gao-cap.com"
-    btn_label: "For Fund Advice."
+    btn_label: "Learn more on the funds on our platform."
   - image_path: /assets/images/S2_Invest-FeatureRow_AUG.png
     alt: "S2 Invest"
-    title: "Invesment Banking Services"
-    excerpt: "For Investment Banking Services"
+    title: "Investment Banking Services"
+    excerpt: "ECFA status under the Monetary Authority of Singapore (MAS)"
     url: "https://s2invest.com"
-    btn_label: "For Corporate Advisory."
-  - image_path: /assets/images/GAO_Ventures-FeatureRow_AUGpng
-    alt: "Expanding Businesses of Tomorrow"
-    title: "Placeholder"
-    excerpt: "Placeholder"
-    url: "Placeholder"
-    btn_label: "Placeholder"
+    btn_label: "Learn more on the services we can provide."
+  - image_path: /assets/images/GAO_Ventures-FeatureRow_AUG.png
+    alt: "GAO Ventures"
+    title: "Expanding Businesses of Tomorrow"
+    excerpt: "Strategic Investments and Partnerships with forward thinking companies.
+    url: "https://gao.ventures"
+    btn_label: "Learn more about co-investing with us."
 ---
 
 {% include feature_row id="intro" type="center" %}
