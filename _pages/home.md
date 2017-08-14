@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/GAO_Ventures-FeatureRow_AUG.png
     alt: "GAO Ventures"
     title: "Expanding Businesses of Tomorrow"
-    excerpt: "Strategic Investments and Partnerships with forward thinking companies.
+    excerpt: "Strategic Investments and Partnerships with forward thinking companies."
     url: "https://gao.ventures"
     btn_label: "Learn more about co-investing with us."
 ---
