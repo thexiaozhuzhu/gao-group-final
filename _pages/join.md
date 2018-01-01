@@ -1,6 +1,8 @@
 ---
-layout: splash
+# layout: single
+# Should be default already 
 permalink: /join/
+title: Join Us!
 header:
   overlay_image: /assets/images/GAO_FamilyPic_1200.jpg
   caption: "Photo credit: [**Ted Low**](https://gao-group.com)"
