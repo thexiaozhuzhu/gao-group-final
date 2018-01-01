@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /about/
 header:
   overlay_image: /assets/images/gaogroup_background_1280.jpg
   caption: "Photo credit: [**Ted Low**](https://gao-group.com)"
