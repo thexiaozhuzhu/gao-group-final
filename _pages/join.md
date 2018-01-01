@@ -1,18 +1,33 @@
 ---
-# layout: single
+layout: single
 # Should be default already 
 permalink: /join/
-title: Join Us!
-header:
-  overlay_image: /assets/images/GAO_FamilyPic_1200.jpg
-  caption: "Photo credit: [**Ted Low**](https://gao-group.com)"
-  cta_label: "Click to see openings."
-  cta_url: "https://gao-cap.com"
-  overlay_color: "#000000"
-  excerpt: "Join Us"
+title: Be part of the GAO family!
+
+author_profile: true
+
+date: 2018-01-01
+last_modified_at: 2018-01-02
 ---
 
-{% include feature_row id="intro" type="center" %}
+## Do you have what it takes?
 
-{% include feature_row %}
+We are looking for motivated individuals.
+
+### Permanent Positions
+
+| Job Title                                   | Qualities we are looking for                          |
+| Graphic Designer | *Able to use the computer like a ninja. *Bonus points if you are a real ninja. | 
+
+### Temporary / Contract Positions
+
+| Job Title                                   | Qualities we are looking for                          |
+| Hedge Fund Analyst (LOA Position) | |
+| Investment Banking Analyst (LOA Position) | |
+| Accounting Associate (LOA Position) | |
+| Others | |
+
+
+
+
 
