@@ -6,7 +6,11 @@ header:
   caption: "Photo credit: [**Ted Low**](https://gao-group.com)"
   cta_label: "Go To GAO Capital Website"
   cta_url: "https://gao-cap.com"
-  overlay_color: "#5e616c"
+  overlay_color: "#000000"
+
+  [//]: # (way to comment)
+  [//]: # (overlay_color: "#5e616c")
+
 excerpt: "A specialist boutique merchant bank."
 feature_row:
   - image_path: /assets/images/GAO_Capital-FeatureRow_AUG.png
