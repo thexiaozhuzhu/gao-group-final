@@ -26,14 +26,10 @@ Unlike WordPress and other content management systems (CMS), Jekyll doesn’t ha
 
 #### No CMS
 Simply write all of your content in Markdown, and Jekyll will run it through templates to generate your static website. GitHub can serve as a CMS if needed because you can edit content on it.
-
-#### Fast
 Jekyll is fast because, being stripped down and without a database, you’re just serving up static pages. My base theme, Jekyll Now, makes only three HTTP requests — including the profile picture and social icons!
 
 #### Minimal
 Your Jekyll website will include absolutely no functionality or features that you aren’t using.
-
-#### Design control
 Spend less time wrestling with complex templates written by other people, and more time creating your own theme or customizing an uncomplicated base theme.
 
 #### Security
@@ -41,4 +37,3 @@ The vast majority of vulnerabilities that affect platforms like WordPress don’
 
 #### Convenient hosting
 Convenient if you already use GitHub, that is. GitHub Pages will build and host your Jekyll website at no charge, while simultaneously handling version control.
-

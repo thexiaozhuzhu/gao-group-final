@@ -13,7 +13,6 @@
   z-index: 20;
 
   &__inner-wrap {
-    @include container;
     @include clearfix;
     display: -webkit-box;
     display: flex;
@@ -49,7 +48,7 @@
 
 .masthead__menu {
   width: 100%;
-
+  
   .site-nav {
     margin-left: 0;
 

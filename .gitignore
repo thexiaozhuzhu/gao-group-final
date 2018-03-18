@@ -1,3 +1,5 @@
+.*
+!.gitignore
 *.gem
 *.sublime-project
 *.sublime-workspace
