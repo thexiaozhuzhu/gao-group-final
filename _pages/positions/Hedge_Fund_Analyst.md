@@ -17,25 +17,26 @@ GAO CAPITAL is looking for EXCEPTIONAL Year 2 or 3 interns for full-time summer 
 ### Highlight of the Role:
 The Intern will gain hands on experience in the world of finance. Selected applicants will get to review index funds, mutual funds, hedge funds and other investment products across different strategies and geographies.  The Intern will learn the basics of the analytical process behind fund and product selection.  The Intern will also be familiarised and be expected to help out with the crucial inner workings behind the operations of a typical fund and be exposed to the administrative, marketing, legal, compliance and accounting components behind a fund setup.
 
+Qualified candidates should be good academic performers who possess the willingness to work hard in an unstructured environment where initiative, maturity, poise and enthusiasm for learning are highly valued. Strong oral and written communication skills are essential. Candidates need to be comfortable with accounting & financial concepts and enjoy both qualitative and quantitative work. 
+
+
 ### Job Scope: 
-- Assist with bookkeeping of company accounts
-- Assist with ongoing M&A deals, due diligence & valuation of companies 
-- Assist in due diligence on hedge funds and start-ups
+- Assist with bookkeeping and the acccounts of multiple funds and companies.
+- Assist in due diligence on multiple investment products including hedge funds. 
 - Assist in communicating with family offices, foundations, endowments and other institutional investors
 - [2nd/3rd Year Interns will also be expected to be able to perform the Job Scope of 1st Year Interns (click here).](/positions/1st_Year_Research_Analysts)
 
 ### Job Requirements: 
-- Basic knowledge about the finance industry
-- Meticulous, basic sense of aesthetics. E.g., powerpoint layouts.  
+- Intermediate knowledge about the finance industry.
+- Good understanding of statistics and how to perform regressions.
+- Ability to search and scrape for information from various sources.
+- Meticulous, basic sense of aesthetics. E.g., excel, powerpoint layouts.  
 - Being neat, organized, diligent with an eye for detail is crucial.
-- Good writing skills and ability to produce summaries in a timely fashion.
-- Self-Driven individuals willing to work in an unstructured environment
-Qualified candidates should be good academic performers who possess the willingness to work hard in an unstructured environment where initiative, maturity, poise and enthusiasm for learning are highly valued. Strong oral and written communication skills are essential. Candidates need to be comfortable with accounting & financial concepts and enjoy both qualitative and quantitative work. 
-
+- Good writing skills and ability to produce complete work in a timely fashion.
+- Self-Driven individuals willing to work in an unstructured environment.
 
 ### Eligibility:
-- This job opening is _**ONLY**_ open to students that have just completed their first year of studies in an Undergraduate Programme.
-- Please do not apply if you are not a 1st Year Undergraduate Student entering their 1st Summer Holiday as this internship is specially catered for 1st Year Undergraduate students.
+- 2nd or 3rd year students in a recognized University Undergraduate Programme.
 - A minimum of 10 weeks commitment to the internship role.  Students that are able to commit for a longer period (e.g., 12 weeks) will be looked upon more favorably.
 
 ### How to apply:
