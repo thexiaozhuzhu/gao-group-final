@@ -26,4 +26,8 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-remote-theme"
+
+# 2018-03-18 Add redirect to prevent directory listing
+  gem 'jekyll-redirect-from'
+
 end
