@@ -15,8 +15,14 @@ _**Please read before applying, non-complicance will render application void and
 GAO is looking for Computer Wizards for full-time summer or LOA internship positions.   
 
 ### Highlight of the Role:
+You get to learn from the best, mingle with the best, and be on the forefront of developing the most cutting-edge solutions.
 
 ### Job Scope: 
+- Jobs at GAO will be split up into modules.
+The Intern should be able to
+ 1. Execute ideas into fruition with speed and accuracy. (You will have large amounts of input into the architecture and design of the various modules.)
+ 2. Manage and distill large amounts of unstructured data into usable output.
+ 3. Be able to present the output of work done into usable format for non-tech savvy users.
 
 ### Job Requirements: 
 The Intern should:
