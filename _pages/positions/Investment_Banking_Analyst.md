@@ -66,7 +66,8 @@ _**OPTIONAL**_
 - [Mergers & Acquisitions by Sudi Sudarsanam](https://www.amazon.com/Creating-Value-Mergers-Acquisitions-Sudarsanam-ebook/dp/B00IZ07W12)
 - [The Little Book of Hedge Funds](https://www.amazon.com/Little-Book-Hedge-Funds/dp/1118099672)
 - [Market Wizards](https://www.amazon.com/Market-Wizards-Interviews-Top-Traders/dp/0135560934)
-Websites:-
+
+_**Websites**_
 - [Wall Street Prep](https://www.wallstreetprep.com/)
 - [Wall Street Oasis](https://www.wallstreetoasis.com/)
 
