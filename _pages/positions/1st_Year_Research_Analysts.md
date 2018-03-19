@@ -7,7 +7,7 @@ title: 1st Year Research Analyst for Quantflix.com
 author_profile: true
 
 date: 2018-03-15
-last_modified_at: 2018-01-02
+last_modified_at: 2018-03-15
 ---
 
 _**Please read before applying, non-complicance will render application void and reflects poorly on you:**_
