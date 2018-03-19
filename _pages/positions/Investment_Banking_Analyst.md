@@ -37,7 +37,7 @@ If you are interested in Investment Banking you should prepare yourself for the 
 - Self-Driven individuals willing to work in an unstructured environment.
 
 _**BONUS POINTS**_
-- Multi-lingual skills and ability to speak and write in  other dialects or languages with a particular emphasis on Mandarin and Bahasa.
+- Multi-lingual skills and ability to speak and write in other dialects or languages with a particular emphasis on Mandarin and Bahasa.
 
 ### Eligibility:
 - 2nd or 3rd year students in a recognized University Undergraduate Programme.
