@@ -38,12 +38,7 @@ feature_row2:
     url: "https://quantflix.com"
     alt: "Oooh I like your mouse hovering over me!"
     title: "Quantflix.com by GAO"
-    excerpt: <p>Check out our newest latest internally funded project based on a decade of our own propietary knowledge and aggregation of databases.  Currently all subscribers will have free access to the information we publish on quantflix.com and we would love to hear any feedback.  We will be rolling out additional features expediently as fast as our Graphic Designers can design new functional UI/UX for you!</p><p><b>Beta Release-</b> Hedge Funds Database</p><p><b>Coming Soon-</b> Private Direct Deals & Coinvestment Opportunities Database</p>
+    excerpt: <p>Check out our newest latest internally funded project based on a decade of our own proprietary knowledge and aggregation of databases.  Currently all subscribers will have free access to the information we publish on quantflix.com and we would love to hear any feedback.  We will be rolling out additional features expediently as fast as our Graphic Designers can design new functional UI/UX for you!</p><p><b>Beta Release-</b> Hedge Funds Database</p><p><b>Coming Soon-</b> Private Direct Deals & Coinvestment Opportunities Database</p>
 ---
-
 {% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="intro" type="center" %}
-
 {% include feature_row %}
-
