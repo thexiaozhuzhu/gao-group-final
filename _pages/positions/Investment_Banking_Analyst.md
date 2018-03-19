@@ -1,7 +1,7 @@
 ---
 layout: single
 # Should be default already 
-permalink: /positions/Hedge_Fund_Analyst/
+permalink: /positions/Investment_Banking_Analyst/
 title: Investment Banking Analyst for S2Invest.com by GAO
 
 author_profile: true
