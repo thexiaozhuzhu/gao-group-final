@@ -32,7 +32,16 @@ feature_row:
     excerpt: "Strategic Investments and Partnerships with forward thinking companies."
     url: "https://gao.ventures"
     btn_label: "Learn more about co-investing with us."
+
+feature_row2:
+  - image_path: /assets/images/logos/20180319_Quantflix_Logo_Tagline.png
+    url: "https://quantflix.com"
+    alt: "Oooh I like your mouse hovering over me!"
+    title: "Quantflix.com by GAO"
+    excerpt: <p>Check out our newest latest internally funded project based on a decade of our own propietary knowledge and aggregation of databases.  Currently all subscribers will have free access to the information we publish on quantflix.com and we would love to hear any feedback.  We will be rolling out additional features expediently as fast as our Graphic Designers can design new functional UI/UX for you!</p><p><b>Beta Release-</b> Hedge Funds Database</p><p><b>Coming Soon-</b> Private Direct Deals & Coinvestment Opportunities Database</p>
 ---
+
+{% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="intro" type="center" %}
 
