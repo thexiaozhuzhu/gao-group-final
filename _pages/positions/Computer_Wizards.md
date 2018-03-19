@@ -18,29 +18,28 @@ GAO is looking for Computer Wizards for full-time summer or LOA internship posit
 You get to learn from the best, mingle with the best, and be on the forefront of developing the most cutting-edge solutions.
 
 ### Job Scope: 
-- Jobs at GAO will be split up into modules.
-The Intern should be able to
+Jobs at GAO will be split up into modules, the Intern should be able to:-
  1. Execute ideas into fruition with speed and accuracy. (You will have large amounts of input into the architecture and design of the various modules.)
  2. Manage and distill large amounts of unstructured data into usable output.
  3. Be able to present the output of work done into usable format for non-tech savvy users.
 
 ### Job Requirements: 
 The Intern should:
-    1. Be in the process of completing a degree in one of the following fields: Computer Science, Mathematics, Statistics, Data Science, or Applied Mathematics
-    2. Have significant programming experience in at least one of the following programming languages and understand its best practices: 
-        a. Python (preferred)
-        b. JavaScript (ES6)
-        c. Ruby
-    3. Know how to use Git
-    4. Have experience in web development using at least one of the following web development frameworks:
-        a. Python and Django (preferred)
-        b. Ruby on Rails
-        c. Node.js
-    5. [Bonus] Strong knowledge in Data Structures and database design.
-    6. [Optional] Be familiar with/willing to learn:
-        a. Docker and Kubernetes
-        b. React.js and ReactNative
-        c. Python libraries such as Celery, TensorFlow, Theano, nltk, scikit-learn, etc.
+ 1. Be in the process of completing a degree in one of the following fields: Computer Science, Mathematics, Statistics, Data Science, or Applied Mathematics
+ 2. Have significant programming experience in at least one of the following programming languages and understand its best practices: 
+    - a. Python (preferred)
+    - b. JavaScript (ES6)
+    - c. Ruby
+ 3. Know how to use Git
+ 4. Have experience in web development using at least one of the following web development frameworks:
+    - a. Python and Django (preferred)
+    - b. Ruby on Rails
+    - c. Node.js
+ 5. [Bonus] Strong knowledge in Data Structures and database design.
+ 6. [Optional] Be familiar with/willing to learn:
+    - a. Docker and Kubernetes
+    - b. React.js and ReactNative
+    - c. Python libraries such as Celery, TensorFlow, Theano, nltk, scikit-learn, etc.
     
 Qualified candidates should possess the willingness to work hard in an unstructured environment where initiative and enthusiasm for learning are highly valued. Strong communication skills are essential.
 
@@ -49,8 +48,8 @@ Qualified candidates should possess the willingness to work hard in an unstructu
 - Please attach a **PDF** copy of your resume.
 - Please attach an unofficial school transcript.
 - Indicate your level of programming experience, especially in the languages and frameworks that we highlighted in ‘Requirements’. 
-  a. Please be specific and give examples. Tell us about the projects or coursework you completed that use these programming languages. 
-  b. If you have significant experience in programming languages outside of those mentioned in ‘Requirements’ (e.g. C, C++, Java, Haskell, Clojure, Go, Perl, etc.), please include them.
+  - a. Please be specific and give examples. Tell us about the projects or coursework you completed that use these programming languages. 
+  - b. If you have significant experience in programming languages outside of those mentioned in ‘Requirements’ (e.g. C, C++, Java, Haskell, Clojure, Go, Perl, etc.), please include them.
 - Share a link to your GitHub page.
 - Please send your cover letter and indicate your start date availability.
 - If you were referred or recommended by a previous GAO Alum, please indicate in your email as well.

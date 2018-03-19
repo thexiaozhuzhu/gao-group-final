@@ -21,27 +21,27 @@ Get to work with the best and produce work that will serve as representation and
 - Design of logos and other illustrations that can aid in visual communication of ideas and concepts.
 - Design and layout of UI/UX for Web and Apps.  Ability to communicate and interface with programmers is a plus.
 - Design of other templates as might be necessary such as for Powerpoint Presentations, Guides or Design Guidelines for other projects such as:-
- a. Real Estate Projects developed by GAO Group
- b. Tech Startups, Companies and Projects organically initiated by GAO Group
- c. Media/Networking/Company Events, Parties and various other shennanigans that we might be up to.  
+  - a. Real Estate Projects developed by GAO Group
+  - b. Tech Startups, Companies and Projects organically initiated by GAO Group
+  - c. Media/Networking/Company Events, Parties and various other shennanigans that we might be up to.  
 
 ### Job Requirements: 
 The Intern should:
-    1. Be in the process of completing a degree from a Singapore University or Polytechnic or Diploma course.
-    2. Have significant experience in using the Adobe Creative Suite of tools and namely:-
-        a. Adobe Photoshop
-        b. Adobe Illustrator
-    3. Strong interest and understanding of the use and selection of Fonts and other font databases.
-    4. Be able to use the computer proficiently to manage and manipulate graphics.  I.e., be able to manage vector graphics, convert file formats, etc.
-    5. Intermediate proficieny with photography and lighting skills and ability to edit digital images.
-    6. Have basic experience in web development and terminology to be able to best portray one's work digitally
-        a. Responsive design
-        b. Bootstrap design
-        c. Basic HTML and CSS design
-    7. [Bonus] Strong copyrighting skills to be able to come up with basic descriptions for various presentations.
-    8. [Bonus] Videography or Audio editing skills to be able to produce short podcasts or videos. 
-    9. [Bonus] Strong desire and willing to learn better web development skills. (Non hardcore programming skills)
-    10. [Bonus] Multilingual skills and ability to speak and write in  other dialects or languages with a particular emphasis on Mandarin and Bahasa.
+ 1. Be in the process of completing a degree from a Singapore University or Polytechnic or Diploma course.
+ 2. Have significant experience in using the Adobe Creative Suite of tools and namely:-
+    - a. Adobe Photoshop
+    - b. Adobe Illustrator
+ 3. Strong interest and understanding of the use and selection of Fonts and other font databases.
+ 4. Be able to use the computer proficiently to manage and manipulate graphics.  I.e., be able to manage vector graphics, convert file formats, etc.
+ 5. Intermediate proficieny with photography and lighting skills and ability to edit digital images.
+ 6. Have basic experience in web development and terminology to be able to best portray one's work digitally
+    - a. Responsive design
+    - b. Bootstrap design
+    - c. Basic HTML and CSS design
+ 7. [Bonus] Strong copyrighting skills to be able to come up with basic descriptions for various presentations.
+ 8. [Bonus] Videography or Audio editing skills to be able to produce short podcasts or videos. 
+ 9. [Bonus] Strong desire and willing to learn better web development skills. (Non hardcore programming skills)
+ 10. [Bonus] Multilingual skills and ability to speak and write in  other dialects or languages with a particular emphasis on Mandarin and Bahasa.
     
 Qualified candidates should possess the willingness to work hard in an unstructured environment where initiative and enthusiasm for learning are highly valued. Strong communication skills are essential.
 
