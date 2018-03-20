@@ -2,6 +2,7 @@
 layout: single
 # Should be default already 
 permalink: /join/
+redirect_from: "/positions/"
 title: Be part of the GAO family!
 
 author_profile: true
