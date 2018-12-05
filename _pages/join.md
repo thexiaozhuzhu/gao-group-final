@@ -15,7 +15,9 @@ last_modified_at: 2018-03-20
 
 We are looking for motivated individuals who are able to work in a fast-paced environment with a flat structure.
 
-Please email all applications to hr@gao-group.com.
+Please submit all applications through our new automated process located at [https://gao-group.com/join/form.html](/join/form.html)
+
+If there is some reason the above method does not work, then please feel free to email hr@gao-group.com.  Applications that have not been attempted to be submitted through the form above will NOT BE ENTERTAINED through the email.
 
 Applications must be accompanied _**at the very least**_ by:-
 1. A PDF copy of your resume. (Word docs are less likely to be opened immediately and might be ignored.)
